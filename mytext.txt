@@ -6,9 +6,7 @@ after commit 1:10
 aftr commit 1:13
 
 new line1
-<<<<<<< HEAD
+
 new lin2
 new 0422 line1
-=======
 new lin2
->>>>>>> 7d2fcda... commit on 0421 ad 3 new line
