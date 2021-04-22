@@ -4,9 +4,10 @@ new line3
 after commit 1:10
 
 aftr commit 1:13
-
+after new line 3
 new line1
 
 new lin2
 new 0422 line1
 new lin2
+new line 3
